@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Ania :-)
 
 - 🌱 I’m currently learning Java Script 
+- 📫 How to reach me: anna.sadka87@gmail.com
 
 <!--
 **aniasadka/aniasadka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
